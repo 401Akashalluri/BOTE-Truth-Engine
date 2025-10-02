@@ -114,7 +114,7 @@ Project Link: https://github.com/your-username/BOTE-Truth-Engine
 **2. Paste and Save**
 * Open the new `README.md` file.
 * Copy the code above and paste it in.
-* **Important:** Remember to replace the placeholder GitHub links (`https://github.com/your-username/BOTE-Truth-Engine.git`) with your actual GitHub repository URL.
+* **Important:** Remember to replace the placeholder GitHub links (`https://github.com/401Akashalluri/BOTE-Truth-Engine.git`) with your actual GitHub repository URL.
 * Save the file.
 
 **3. Upload it to GitHub**
