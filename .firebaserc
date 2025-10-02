@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "bote-truth-engine",
+    "hosting": "bote-truth-engine-v2"
+  },
+  "targets": {},
+  "etags": {}
+}
